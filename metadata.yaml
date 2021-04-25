@@ -1,10 +1,13 @@
 _repo: The-Wonders-of-Optics_65114
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Quin, Charles W.
     gutenberg_agent_id: '53189'
     url: http://www.gutenberg.org/2009/agents/53189
+covers:
+- cover_type: archival
+  image_path: 65114-h/images/cover.jpg
 creator:
   author:
     agent_name: Marion, Fulgence
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '461'
     url: http://www.gutenberg.org/2009/agents/461
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65114#The-Wonders-of-Optics
 gutenberg_issued: '2021-04-19'
 gutenberg_type: Text
 identifiers:
